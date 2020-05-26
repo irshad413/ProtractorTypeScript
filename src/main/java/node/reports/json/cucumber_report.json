@@ -26,11 +26,11 @@
             "line": 5,
             "name": "I am on \"google\" search page",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\homePage.js:17"
+              "location": "..\\typeScript\\stepdefinitions\\homePage.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 14000000
+              "duration": 18000000
             }
           },
           {
@@ -39,11 +39,11 @@
             "line": 6,
             "name": "I type \"cucumber\"",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:15"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 119000000
+              "duration": 204000000
             }
           },
           {
@@ -52,11 +52,11 @@
             "line": 7,
             "name": "I click on search button",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:18"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 1539000000
+              "duration": 2106000000
             }
           },
           {
@@ -65,28 +65,29 @@
             "line": 8,
             "name": "I clear the search text",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:14"
+              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 66000000
+              "duration": 70000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "..\\typeScript\\support\\hooks.js:17"
+              "location": "..\\typeScript\\support\\hooks.js:18"
             },
             "result": {
-              "status": "passed"
+              "status": "passed",
+              "duration": 1000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
             },
             "result": {
               "status": "passed",
@@ -124,11 +125,11 @@
             "line": 5,
             "name": "I am on \"cucumber\" search page",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\homePage.js:17"
+              "location": "..\\typeScript\\stepdefinitions\\homePage.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 6000000
+              "duration": 16000000
             }
           },
           {
@@ -137,11 +138,11 @@
             "line": 6,
             "name": "I type \"protractor\"",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:15"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 154000000
+              "duration": 219000000
             }
           },
           {
@@ -150,11 +151,11 @@
             "line": 7,
             "name": "I click on search button",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:18"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 2141000000
+              "duration": 957000000
             }
           },
           {
@@ -163,31 +164,33 @@
             "line": 8,
             "name": "I clear the search text",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:14"
+              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 58000000
+              "duration": 305000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "..\\typeScript\\support\\hooks.js:17"
+              "location": "..\\typeScript\\support\\hooks.js:18"
             },
             "result": {
-              "status": "passed"
+              "status": "passed",
+              "duration": 1000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
             },
             "result": {
-              "status": "passed"
+              "status": "passed",
+              "duration": 1000000
             }
           }
         ]
@@ -221,11 +224,11 @@
             "line": 5,
             "name": "I am on \"protractor\" search page",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\homePage.js:17"
+              "location": "..\\typeScript\\stepdefinitions\\homePage.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 7000000
+              "duration": 219000000
             }
           },
           {
@@ -234,11 +237,11 @@
             "line": 6,
             "name": "I type \"typescript\"",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:15"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 146000000
+              "duration": 216000000
             }
           },
           {
@@ -247,11 +250,11 @@
             "line": 7,
             "name": "I click on search button",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:18"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 1385000000
+              "duration": 4352000000
             }
           },
           {
@@ -260,11 +263,11 @@
             "line": 8,
             "name": "I clear the search text",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:14"
+              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 156000000
+              "duration": 95000000
             }
           },
           {
@@ -273,28 +276,29 @@
             "line": 9,
             "name": "I click on google logo",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:21"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:22"
             },
             "result": {
               "status": "passed",
-              "duration": 543000000
+              "duration": 1382000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "..\\typeScript\\support\\hooks.js:17"
+              "location": "..\\typeScript\\support\\hooks.js:18"
             },
             "result": {
-              "status": "passed"
+              "status": "passed",
+              "duration": 1000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
             },
             "result": {
               "status": "passed"
@@ -331,7 +335,7 @@
             "line": 6,
             "name": "I am on \"google\" search page",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\homePage.js:17"
+              "location": "..\\typeScript\\stepdefinitions\\homePage.js:18"
             },
             "result": {
               "status": "passed",
@@ -344,11 +348,11 @@
             "line": 7,
             "name": "I type \"cucumber\"",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:15"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 147000000
+              "duration": 201000000
             }
           },
           {
@@ -357,11 +361,11 @@
             "line": 8,
             "name": "I click on search button",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:18"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 639000000
+              "duration": 1383000000
             }
           },
           {
@@ -370,28 +374,29 @@
             "line": 9,
             "name": "I clear the search text",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:14"
+              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 59000000
+              "duration": 89000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "..\\typeScript\\support\\hooks.js:17"
+              "location": "..\\typeScript\\support\\hooks.js:18"
             },
             "result": {
-              "status": "passed"
+              "status": "passed",
+              "duration": 1000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
             },
             "result": {
               "status": "passed"
@@ -418,11 +423,11 @@
             "line": 6,
             "name": "I am on \"cucumber\" search page",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\homePage.js:17"
+              "location": "..\\typeScript\\stepdefinitions\\homePage.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 7000000
+              "duration": 20000000
             }
           },
           {
@@ -431,11 +436,11 @@
             "line": 7,
             "name": "I type \"protractor\"",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:15"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 165000000
+              "duration": 246000000
             }
           },
           {
@@ -444,11 +449,11 @@
             "line": 8,
             "name": "I click on search button",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:18"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 707000000
+              "duration": 1664000000
             }
           },
           {
@@ -457,32 +462,32 @@
             "line": 9,
             "name": "I clear the search text",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:14"
+              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 73000000
+              "duration": 196000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "..\\typeScript\\support\\hooks.js:17"
+              "location": "..\\typeScript\\support\\hooks.js:18"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
             },
             "result": {
               "status": "passed",
               "duration": 1000000
-            }
-          },
-          {
-            "keyword": "After",
-            "hidden": true,
-            "match": {
-              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
-            },
-            "result": {
-              "status": "passed"
             }
           }
         ]
@@ -506,11 +511,11 @@
             "line": 6,
             "name": "I am on \"protractor\" search page",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\homePage.js:17"
+              "location": "..\\typeScript\\stepdefinitions\\homePage.js:18"
             },
             "result": {
               "status": "passed",
-              "duration": 8000000
+              "duration": 16000000
             }
           },
           {
@@ -519,11 +524,11 @@
             "line": 7,
             "name": "I type \"typescript\"",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:15"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:16"
             },
             "result": {
               "status": "passed",
-              "duration": 147000000
+              "duration": 745000000
             }
           },
           {
@@ -532,11 +537,11 @@
             "line": 8,
             "name": "I click on search button",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\search.js:18"
+              "location": "..\\typeScript\\stepdefinitions\\search.js:19"
             },
             "result": {
               "status": "passed",
-              "duration": 667000000
+              "duration": 1881000000
             }
           },
           {
@@ -545,18 +550,18 @@
             "line": 9,
             "name": "I clear the search text",
             "match": {
-              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:14"
+              "location": "..\\typeScript\\stepdefinitions\\clearPage.js:15"
             },
             "result": {
               "status": "passed",
-              "duration": 65000000
+              "duration": 105000000
             }
           },
           {
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "..\\typeScript\\support\\hooks.js:17"
+              "location": "..\\typeScript\\support\\hooks.js:18"
             },
             "result": {
               "status": "passed"
@@ -566,7 +571,7 @@
             "keyword": "After",
             "hidden": true,
             "match": {
-              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:26"
+              "location": "node_modules\\protractor-cucumber-framework\\lib\\resultsCapturer.js:27"
             },
             "result": {
               "status": "passed",

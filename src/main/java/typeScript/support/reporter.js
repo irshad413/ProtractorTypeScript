@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Reporter = void 0;
 const reporter = require("../../node/node_modules/cucumber-html-reporter");
 const fs = require("fs");
 const mkdirp = require("../../node/node_modules/mkdirp");

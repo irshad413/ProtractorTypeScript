@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.config = void 0;
 const protractor_1 = require("../../node/node_modules/protractor");
 const reporter_1 = require("../support/reporter");
 const jsonReports = process.cwd() + "/reports/json";

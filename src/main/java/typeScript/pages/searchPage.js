@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.SearchPageObject = void 0;
 const protractor_1 = require("../../node/node_modules/protractor");
 class SearchPageObject {
     constructor() {
